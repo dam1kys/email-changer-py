@@ -16,7 +16,7 @@ step 2 : Run "python-3.12.0.exe" if you havent installed python on your system.
 step 3 : Run "setup.exe" to launch autoskull and you're ready to go!
 
 ### IGNORE PROXY {IMPORTANT}
-py
+```py
     def fetchProxies(url, custom_regex):
         global proxylist
         try:
@@ -66,3 +66,4 @@ py
             for i in range(random.randint(7, 10)):
                 f.write(f"{proxy}\n")
     execution_time = (time.time() - startTime)
+```
