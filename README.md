@@ -11,9 +11,9 @@
 ## Installation 
 
 #### Compiled Version (Easier + is what you have right now!)
-```Step 1 : Extract "slain-autoskull.zip"
+```Step 1 : Extract "email-changerl.zip"
    step 2 : Run "python-3.12.0.exe" if you havent installed python on your system.
-   step 3 : Run "setup.exe" to launch autoskull and you're ready to go!
+   step 3 : Run "setup.exe" to launch emailchanger and you're ready to go!
 ```
 
 ### IGNORE PROXY {IMPORTANT}
